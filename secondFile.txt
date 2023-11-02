@@ -1,4 +1,4 @@
-"Line 1" > secondFile.txt
+updated line
 "Line 2" >> secondFile.txt
 "Line 3" >> secondFile.txt
 "Line 4" >> secondFile.txt
@@ -7,4 +7,4 @@
 "Line 7" >> secondFile.txt
 "Line 8" >> secondFile.txt
 "Line 9" >> secondFile.txt
-"Line 10" >> secondFile.txt
+updated line
