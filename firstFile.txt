@@ -9,3 +9,5 @@ changes in git_1
 modify another two lines. in git_1
 modify another two lines. in git_1
 
+New Line 1
+New Line 2
