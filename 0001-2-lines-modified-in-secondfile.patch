@@ -1,0 +1,30 @@
+From 122a8e77576afa1d51f164d7801d20ff5402fda7 Mon Sep 17 00:00:00 2001
+From: Fayzullo <qahramonovf26@gmail.com>
+Date: Thu, 2 Nov 2023 17:22:12 +0500
+Subject: [PATCH] 2 lines modified in secondfile
+
+---
+ secondFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/secondFile.txt b/secondFile.txt
+index 2ae3904..635da89 100644
+--- a/secondFile.txt
++++ b/secondFile.txt
+@@ -1,4 +1,4 @@
+-"Line 1" > secondFile.txt
++updated line
+ "Line 2" >> secondFile.txt
+ "Line 3" >> secondFile.txt
+ "Line 4" >> secondFile.txt
+@@ -7,4 +7,4 @@
+ "Line 7" >> secondFile.txt
+ "Line 8" >> secondFile.txt
+ "Line 9" >> secondFile.txt
+-"Line 10" >> secondFile.txt
+\ No newline at end of file
++updated line
+\ No newline at end of file
+-- 
+2.39.0.windows.1
+
